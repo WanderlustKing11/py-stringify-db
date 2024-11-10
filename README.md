@@ -1,5 +1,3 @@
----
-
 # Py-Stringify-Db
 
 **A Python-based project to parse, merge, and sync lists between string input and SQL data, maintaining data consistency and readability.**
